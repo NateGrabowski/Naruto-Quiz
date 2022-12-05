@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: How many answers did Naruto answer correctly in the first phase of the
     chunin exam?
+  answers:
+  - 0
+  - 10
+  - Didn't take the test
+  - Sakura gave him the answers
+  correctAnswerIndex: 0

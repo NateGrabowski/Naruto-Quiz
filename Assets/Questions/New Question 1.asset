@@ -10,6 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5246d9c05ed1695498c9e9e1d8895095, type: 3}
-  m_Name: New Question 3
+  m_Name: New Question 1
   m_EditorClassIdentifier: 
-  question: What is the name of the puppet Kankuro carries on his back?
+  question: What does the symbol on Gaara's forehead mean?
+  answers:
+  - Peace
+  - Hate
+  - Pain
+  - Love
+  correctAnswerIndex: 0
