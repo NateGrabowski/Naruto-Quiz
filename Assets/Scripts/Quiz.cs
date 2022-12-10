@@ -14,6 +14,7 @@ public class Quiz : MonoBehaviour
     int correctAnswerIndex;
     [SerializeField] Sprite defaultAnswerSprite;
     [SerializeField] Sprite correctAnswerSprite;
+
     void Start()
     {
         DisplayQuestion(answerButtons);
